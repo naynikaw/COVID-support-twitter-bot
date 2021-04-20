@@ -1,10 +1,10 @@
 import tweepy
 
 keys = {
-    'CONSUMER_API_KEY': 'wajNSP93SBTht9f47OzvuaXo7',
-    'CONSUMER_API_SECRET_KEY': 'CK26Py7UsErZpnaC8jQDvrdzYKIb0FXe8qcQXk90gk7n9pTG8q',
-    'ACCESS_TOKEN': '1359355237962719232-EkJom8BgE9PrwyjaAEdGMwG5fnZaPQ',
-    'ACCESS_TOKEN_SECRET': '7jrSZvS55tu4x1K3QORuSiiMkTigo0887Mlt1KYAZISFN'
+    'CONSUMER_API_KEY': '',
+    'CONSUMER_API_SECRET_KEY': '',
+    'ACCESS_TOKEN': '',
+    'ACCESS_TOKEN_SECRET': ''
 }
 
 def handler(event, context):
